@@ -29,7 +29,7 @@ Below is the Enhanced Entity-Relationship (EER) diagram representing the system'
     git clone [https://github.com/enyin-yap/student-housing-management-system-db.git](https://github.com/enyin-yap/student-housing-management-system-db.git)
     ```
 2.  **Initialize the Schema:**
-    Run `schema.sql` in MySQL Workbench to build the 16-table structure and triggers.
+    Run `schema.sql` in MySQL Workbench to build the database structure and triggers.
 3.  **Populate Data:**
     Run `seed_data.sql` to import realistic student, room, and financial records.
 4.  **Explore Insights:**
