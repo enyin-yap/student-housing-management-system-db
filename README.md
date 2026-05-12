@@ -4,9 +4,9 @@ A MySQL relational database designed to manage high-density student accommodatio
 
 ## 🌟 Key Features
 * **Comprehensive Schema:** 15 core relational entities supported by dedicated `audit_log` and `lease_archive` tables.
-* **Automated Auditing:** Custom triggers to log administrative changes and track "auto-cancel" logic.
-* **Financial Analytics:** Complex queries for revenue forecasting and occupancy rate tracking.
-* **Maintenance Logic:** Integrated modules for tracking work orders and facility health.
+* **Automated Auditing:** Custom triggers to log administrative changes and track student records.
+* **Financial Insights:** Operational queries for tracking unpaid invoices and semester total rent calculation.
+* **Maintenance Tracking:** Integrated logic for tracking work orders and managing worker allocation.
 
 ---
 
